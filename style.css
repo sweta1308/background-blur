@@ -88,3 +88,9 @@ input::placeholder {
 .visible.login-container {
     visibility: hidden;
 }
+
+@media (max-width: 480px) {
+    h1 {
+        font-size: 28px;
+    }
+}
