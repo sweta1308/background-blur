@@ -101,5 +101,6 @@ input::placeholder {
 
     input {
         width: 280px;
+        font-size: 20px;
     }
 }
