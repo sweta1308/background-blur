@@ -94,4 +94,8 @@ input::placeholder {
         font-size: 34px;
         text-align: center;
     }
+
+    .login-container {
+        width: 350px;
+    }
 }
