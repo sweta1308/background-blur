@@ -34,7 +34,7 @@ body {
 }
 
 .active.background-container {
-    filter: blur(10px);
+    filter: blur(10px) brightness(0.7);
 }
 
 .login-container {
