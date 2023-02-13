@@ -98,7 +98,7 @@ input::placeholder {
 
     .login-container {
         width: 280px;
-        padding-bottom: 20px;
+        padding-bottom: 30px;
     }
 
     input {
@@ -107,6 +107,6 @@ input::placeholder {
     }
 
     .login-container div {
-        margin-top: 30px;
+        margin-top: 20px;
     }
 }
