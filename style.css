@@ -50,6 +50,7 @@ body {
     display: block;
     padding: 30px;
     font-size: 20px;
+    padding-bottom: 50px;
 }
 
 .fa-solid {
@@ -80,6 +81,8 @@ input {
     padding: 5px;
     text-align: center;
     margin-top: 5px;
+    width: 350px;
+    font-size: 18px;
 }
 
 input::placeholder {
