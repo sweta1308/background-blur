@@ -98,4 +98,8 @@ input::placeholder {
     .login-container {
         width: 300px;
     }
+
+    input {
+        width: 300px;
+    }
 }
