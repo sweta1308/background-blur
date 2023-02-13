@@ -104,4 +104,8 @@ input::placeholder {
         width: 280px;
         font-size: 18px;
     }
+
+    .login-container div {
+        margin-top: 20px;
+    }
 }
